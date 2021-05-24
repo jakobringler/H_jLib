@@ -1,0 +1,18 @@
+{
+    "recommends": "houdini_version >= '17.5.321'",
+
+    "env": [
+        {
+            "JLIB": "V:\_repository\houdini\HDA Libraries\jLib-master",
+        },
+        {
+            "JOTL": "$JLIB/otls",
+        },
+        {
+            "HOUDINI_OTLSCAN_PATH": "$JOTL/groom;$HOUDINI_OTLSCAN_PATH",
+        },
+    ],
+    
+    "path": "$JLIB",
+}
+
