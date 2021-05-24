@@ -3,7 +3,7 @@
 
     "env": [
         {
-            "JLIB": "V:\_repository\houdini\HDA Libraries\jLib-master",
+            "JLIB": "YOUR PATH TO \jLib-master",
         },
         {
             "JOTL": "$JLIB/otls",
@@ -12,7 +12,6 @@
             "HOUDINI_OTLSCAN_PATH": "$JOTL/groom;$HOUDINI_OTLSCAN_PATH",
         },
     ],
-    
+
     "path": "$JLIB",
 }
-
