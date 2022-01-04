@@ -3,7 +3,7 @@
 
     "env": [
         {
-            "JLIB": "YOUR PATH TO \jLib-master",
+            "JLIB": "YOUR PATH TO/jLib-master",
         },
         {
             "JOTL": "$JLIB/otls",
