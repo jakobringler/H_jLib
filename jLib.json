@@ -9,7 +9,7 @@
             "JOTL": "$JLIB/otls",
         },
         {
-            "HOUDINI_OTLSCAN_PATH": "$JOTL/groom;$HOUDINI_OTLSCAN_PATH",
+            "HOUDINI_OTLSCAN_PATH": "$JOTL/groom;$JOTL/ml;$HOUDINI_OTLSCAN_PATH",
         },
     ],
 
